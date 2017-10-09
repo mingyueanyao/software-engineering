@@ -1,0 +1,1604 @@
+{
+	"students":	[{
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Wed.18:30~20:00", "Wed.12:30~14:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020001",
+			"applications_department":	["D002", "D012"],
+			"tags":	["music", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Tues.18:30~20:00", "Tues.9:00~11:30", "Sat.21:00~22:30", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020002",
+			"applications_department":	["D006", "D008", "D009", "D011"],
+			"tags":	["English", "chess", "football", "basketball"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020003",
+			"applications_department":	["D005", "D008", "D009", "D016"],
+			"tags":	["film", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020004",
+			"applications_department":	["D001", "D004", "D007", "D008", "D017"],
+			"tags":	["reading", "English", "dance"]
+		}, {
+			"free_time":	["Thur.12:30~14:00", "Thur.9:00~11:30", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020005",
+			"applications_department":	["D001"],
+			"tags":	["study", "chess", "football"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.18:30~20:00", "Sat.9:00~11:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020006",
+			"applications_department":	["D007", "D010", "D016"],
+			"tags":	["film", "English", "football"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.18:30~20:00", "Sat.18:30~20:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020007",
+			"applications_department":	["D013"],
+			"tags":	["music", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.9:00~11:30", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020008",
+			"applications_department":	["D008", "D011", "D015", "D017", "D019"],
+			"tags":	["English", "chess", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.9:00~11:30", "Tues.21:00~22:30", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020009",
+			"applications_department":	["D001", "D002", "D005", "D007", "D019"],
+			"tags":	["music", "English", "football", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Wed.9:00~11:30", "Wed.21:00~22:30", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020010",
+			"applications_department":	["D014", "D016", "D017", "D019", "D020"],
+			"tags":	["film", "music", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Tues.9:00~11:30", "Tues.12:30~14:00", "Wed.21:00~22:30", "Wed.18:30~20:00", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020011",
+			"applications_department":	["D007", "D009", "D012", "D018", "D019"],
+			"tags":	["reading", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020012",
+			"applications_department":	["D007", "D008", "D010", "D018", "D020"],
+			"tags":	["film", "reading", "football", "programming"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.12:30~14:00", "Fri.12:30~14:00", "Fri.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020013",
+			"applications_department":	["D005", "D010", "D013", "D018"],
+			"tags":	["music", "reading", "basketball"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020014",
+			"applications_department":	["D002", "D007", "D009", "D015"],
+			"tags":	["reading", "study", "football"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.9:00~11:30", "Tues.12:30~14:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020015",
+			"applications_department":	["D017"],
+			"tags":	["film", "reading", "study", "football"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020016",
+			"applications_department":	["D002", "D004", "D005", "D011", "D012"],
+			"tags":	["music", "reading", "study"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020017",
+			"applications_department":	["D007", "D009"],
+			"tags":	["reading", "English", "chess"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Wed.18:30~20:00", "Wed.9:00~11:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020018",
+			"applications_department":	["D005", "D013", "D018"],
+			"tags":	["English", "chess", "basketball"]
+		}, {
+			"free_time":	["Thur.9:00~11:30", "Thur.12:30~14:00", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020019",
+			"applications_department":	["D002"],
+			"tags":	["English", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Wed.18:30~20:00", "Wed.9:00~11:30", "Thur.21:00~22:30", "Thur.12:30~14:00"],
+			"student_no":	"0315020020",
+			"applications_department":	["D015"],
+			"tags":	["film", "music", "chess", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020021",
+			"applications_department":	["D002", "D011", "D013", "D014", "D016"],
+			"tags":	["film", "music", "English", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Thur.21:00~22:30", "Thur.18:30~20:00", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.12:30~14:00", "Sat.18:30~20:00"],
+			"student_no":	"0315020022",
+			"applications_department":	["D005", "D008", "D009", "D020"],
+			"tags":	["music", "study", "English", "programming"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.9:00~11:30", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020023",
+			"applications_department":	["D008"],
+			"tags":	["film", "reading", "study", "dance"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.9:00~11:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020024",
+			"applications_department":	["D020"],
+			"tags":	["film", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.18:30~20:00"],
+			"student_no":	"0315020025",
+			"applications_department":	["D001"],
+			"tags":	["film", "study", "chess", "programming"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Thur.18:30~20:00", "Thur.12:30~14:00", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sat.18:30~20:00", "Sat.12:30~14:00"],
+			"student_no":	"0315020026",
+			"applications_department":	["D008"],
+			"tags":	["film", "English", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Tues.9:00~11:30", "Tues.18:30~20:00", "Fri.18:30~20:00", "Fri.9:00~11:30"],
+			"student_no":	"0315020027",
+			"applications_department":	["D007", "D009", "D017", "D020"],
+			"tags":	["music", "study", "chess", "football"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.21:00~22:30", "Fri.18:30~20:00"],
+			"student_no":	"0315020028",
+			"applications_department":	["D003", "D004", "D020"],
+			"tags":	["film", "English", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Tues.12:30~14:00", "Tues.9:00~11:30", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020029",
+			"applications_department":	["D001", "D003", "D005", "D007", "D008"],
+			"tags":	["English", "chess", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Wed.21:00~22:30", "Wed.9:00~11:30", "Sat.21:00~22:30", "Sat.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020030",
+			"applications_department":	["D007"],
+			"tags":	["English", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.21:00~22:30", "Wed.18:30~20:00", "Sat.18:30~20:00", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020031",
+			"applications_department":	["D005", "D006", "D008", "D013", "D017"],
+			"tags":	["English", "football", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.12:30~14:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Fri.21:00~22:30", "Fri.18:30~20:00", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020032",
+			"applications_department":	["D009", "D011", "D012", "D018"],
+			"tags":	["film", "study", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.12:30~14:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020033",
+			"applications_department":	["D011", "D019"],
+			"tags":	["English", "programming", "dance", "basketball"]
+		}, {
+			"free_time":	["Thur.18:30~20:00", "Thur.9:00~11:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020034",
+			"applications_department":	["D006", "D015"],
+			"tags":	["music", "reading", "chess", "programming"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.12:30~14:00", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sat.18:30~20:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020035",
+			"applications_department":	["D001", "D005", "D006"],
+			"tags":	["film", "study", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.9:00~11:30", "Wed.18:30~20:00", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020036",
+			"applications_department":	["D011"],
+			"tags":	["music", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.18:30~20:00", "Thur.21:00~22:30"],
+			"student_no":	"0315020037",
+			"applications_department":	["D002", "D008", "D009", "D013", "D015"],
+			"tags":	["music", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.21:00~22:30", "Fri.9:00~11:30", "Fri.21:00~22:30"],
+			"student_no":	"0315020038",
+			"applications_department":	["D006", "D007", "D008", "D010", "D011"],
+			"tags":	["music", "reading", "chess", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.21:00~22:30", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020039",
+			"applications_department":	["D020"],
+			"tags":	["film", "English", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Wed.21:00~22:30", "Wed.12:30~14:00", "Fri.12:30~14:00", "Fri.18:30~20:00"],
+			"student_no":	"0315020040",
+			"applications_department":	["D004", "D005", "D009", "D014", "D015"],
+			"tags":	["reading", "English", "football", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Wed.12:30~14:00", "Wed.21:00~22:30", "Sat.18:30~20:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020041",
+			"applications_department":	["D008", "D011", "D015", "D016", "D018"],
+			"tags":	["music", "English", "programming", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020042",
+			"applications_department":	["D009", "D010"],
+			"tags":	["chess", "football", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Wed.18:30~20:00", "Wed.9:00~11:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020043",
+			"applications_department":	["D016", "D017"],
+			"tags":	["reading", "study", "English"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Thur.21:00~22:30", "Thur.18:30~20:00", "Fri.21:00~22:30", "Fri.18:30~20:00"],
+			"student_no":	"0315020044",
+			"applications_department":	["D010", "D016", "D019"],
+			"tags":	["film", "reading", "English"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Sat.9:00~11:30", "Sat.12:30~14:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020045",
+			"applications_department":	["D012"],
+			"tags":	["music", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.21:00~22:30", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020046",
+			"applications_department":	["D002", "D006", "D009", "D010", "D018"],
+			"tags":	["film", "English", "football"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020047",
+			"applications_department":	["D010", "D019"],
+			"tags":	["reading", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Tues.9:00~11:30", "Tues.21:00~22:30", "Thur.12:30~14:00", "Thur.18:30~20:00", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020048",
+			"applications_department":	["D001", "D006", "D011", "D016", "D019"],
+			"tags":	["music", "study", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.18:30~20:00", "Thur.9:00~11:30"],
+			"student_no":	"0315020049",
+			"applications_department":	["D006"],
+			"tags":	["reading", "study", "football", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Fri.9:00~11:30", "Fri.18:30~20:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020050",
+			"applications_department":	["D003", "D010", "D011", "D012", "D015"],
+			"tags":	["film", "music", "programming"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Wed.9:00~11:30", "Wed.18:30~20:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020051",
+			"applications_department":	["D001", "D005", "D013", "D017"],
+			"tags":	["study", "chess", "football", "basketball"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.21:00~22:30", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020052",
+			"applications_department":	["D001", "D003", "D008", "D016"],
+			"tags":	["film", "English", "chess"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.12:30~14:00", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020053",
+			"applications_department":	["D012", "D017"],
+			"tags":	["reading", "study", "chess"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.21:00~22:30", "Tues.9:00~11:30", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020054",
+			"applications_department":	["D004"],
+			"tags":	["film", "chess", "football"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.21:00~22:30", "Fri.9:00~11:30", "Fri.18:30~20:00"],
+			"student_no":	"0315020055",
+			"applications_department":	["D007", "D010", "D011", "D013", "D014"],
+			"tags":	["reading", "English", "football", "basketball"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.21:00~22:30", "Thur.9:00~11:30", "Thur.12:30~14:00", "Fri.9:00~11:30", "Fri.21:00~22:30"],
+			"student_no":	"0315020056",
+			"applications_department":	["D003", "D012", "D016", "D019"],
+			"tags":	["film", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.9:00~11:30", "Wed.12:30~14:00", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020057",
+			"applications_department":	["D002", "D010", "D014", "D015", "D019"],
+			"tags":	["film", "music", "English", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Sat.18:30~20:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020058",
+			"applications_department":	["D003", "D005", "D011"],
+			"tags":	["music", "reading", "English"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.18:30~20:00", "Wed.9:00~11:30", "Wed.12:30~14:00"],
+			"student_no":	"0315020059",
+			"applications_department":	["D012", "D013", "D015", "D020"],
+			"tags":	["reading", "English", "programming"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020060",
+			"applications_department":	["D001", "D006", "D015", "D017"],
+			"tags":	["film", "music", "reading", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Thur.21:00~22:30", "Thur.18:30~20:00", "Fri.21:00~22:30", "Fri.18:30~20:00"],
+			"student_no":	"0315020061",
+			"applications_department":	["D011"],
+			"tags":	["music", "programming", "basketball"]
+		}, {
+			"free_time":	["Fri.21:00~22:30", "Fri.18:30~20:00", "Sat.21:00~22:30", "Sat.18:30~20:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020062",
+			"applications_department":	["D001", "D003", "D009", "D012", "D015"],
+			"tags":	["film", "study", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.12:30~14:00", "Tues.21:00~22:30", "Fri.9:00~11:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020063",
+			"applications_department":	["D004"],
+			"tags":	["English", "chess", "football", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020064",
+			"applications_department":	["D012"],
+			"tags":	["reading", "chess", "dance"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.12:30~14:00", "Thur.18:30~20:00", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020065",
+			"applications_department":	["D002", "D013", "D017"],
+			"tags":	["music", "reading", "chess", "football"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.18:30~20:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020066",
+			"applications_department":	["D006", "D012", "D014"],
+			"tags":	["music", "football", "dance"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.12:30~14:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Fri.21:00~22:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020067",
+			"applications_department":	["D004", "D015", "D019"],
+			"tags":	["film", "music", "reading", "English"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.12:30~14:00", "Thur.9:00~11:30", "Thur.21:00~22:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020068",
+			"applications_department":	["D003", "D004"],
+			"tags":	["film", "music", "programming"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.18:30~20:00", "Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020069",
+			"applications_department":	["D005", "D007", "D010", "D016"],
+			"tags":	["film", "English", "chess", "football"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.12:30~14:00", "Tues.9:00~11:30", "Sat.9:00~11:30", "Sat.18:30~20:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020070",
+			"applications_department":	["D016"],
+			"tags":	["film", "English", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020071",
+			"applications_department":	["D007", "D017"],
+			"tags":	["film", "reading", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020072",
+			"applications_department":	["D006", "D007", "D017"],
+			"tags":	["music", "reading", "English"]
+		}, {
+			"free_time":	["Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020073",
+			"applications_department":	["D003", "D004", "D007", "D017", "D018"],
+			"tags":	["film", "music", "study", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Wed.9:00~11:30", "Wed.21:00~22:30", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020074",
+			"applications_department":	["D001", "D012", "D018"],
+			"tags":	["film", "reading", "chess"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Tues.9:00~11:30", "Tues.21:00~22:30", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020075",
+			"applications_department":	["D019"],
+			"tags":	["reading", "English", "dance", "basketball"]
+		}, {
+			"free_time":	["Thur.9:00~11:30", "Thur.21:00~22:30", "Fri.12:30~14:00", "Fri.18:30~20:00", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020076",
+			"applications_department":	["D003"],
+			"tags":	["music", "study", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Sat.9:00~11:30", "Sat.18:30~20:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020077",
+			"applications_department":	["D002", "D005", "D013", "D015"],
+			"tags":	["film", "football", "dance"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.18:30~20:00", "Thur.18:30~20:00", "Thur.21:00~22:30", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020078",
+			"applications_department":	["D001", "D007", "D009", "D015", "D020"],
+			"tags":	["English", "chess", "football", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Sat.12:30~14:00", "Sat.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020079",
+			"applications_department":	["D005", "D009", "D017"],
+			"tags":	["music", "study", "English", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.9:00~11:30", "Tues.12:30~14:00", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020080",
+			"applications_department":	["D002"],
+			"tags":	["chess", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Wed.12:30~14:00", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.18:30~20:00", "Fri.9:00~11:30"],
+			"student_no":	"0315020081",
+			"applications_department":	["D001", "D004", "D018"],
+			"tags":	["chess", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Wed.12:30~14:00", "Wed.18:30~20:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020082",
+			"applications_department":	["D004", "D015", "D016"],
+			"tags":	["music", "football", "dance"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Fri.21:00~22:30", "Fri.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020083",
+			"applications_department":	["D007"],
+			"tags":	["film", "English", "programming"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Thur.9:00~11:30", "Thur.21:00~22:30", "Fri.21:00~22:30", "Fri.12:30~14:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020084",
+			"applications_department":	["D009"],
+			"tags":	["music", "chess", "dance"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Wed.21:00~22:30", "Wed.9:00~11:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020085",
+			"applications_department":	["D015", "D016", "D019"],
+			"tags":	["study", "English", "chess"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.21:00~22:30", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020086",
+			"applications_department":	["D013", "D014", "D015"],
+			"tags":	["music", "English", "chess"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020087",
+			"applications_department":	["D016"],
+			"tags":	["English", "chess", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.9:00~11:30", "Wed.12:30~14:00", "Wed.21:00~22:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020088",
+			"applications_department":	["D011", "D020"],
+			"tags":	["music", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.21:00~22:30", "Tues.18:30~20:00", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020089",
+			"applications_department":	["D004", "D007", "D012", "D016", "D017"],
+			"tags":	["film", "music", "study"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.21:00~22:30", "Tues.9:00~11:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Thur.12:30~14:00", "Thur.21:00~22:30"],
+			"student_no":	"0315020090",
+			"applications_department":	["D009", "D016"],
+			"tags":	["film", "English", "chess"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.12:30~14:00", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020091",
+			"applications_department":	["D001"],
+			"tags":	["film", "study", "programming"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.18:30~20:00", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020092",
+			"applications_department":	["D007", "D012", "D019", "D020"],
+			"tags":	["film", "reading", "chess", "basketball"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.12:30~14:00", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020093",
+			"applications_department":	["D006"],
+			"tags":	["music", "reading", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Wed.21:00~22:30", "Wed.9:00~11:30", "Fri.18:30~20:00", "Fri.12:30~14:00"],
+			"student_no":	"0315020094",
+			"applications_department":	["D017"],
+			"tags":	["film", "study", "football", "programming"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020095",
+			"applications_department":	["D006"],
+			"tags":	["music", "reading", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Tues.9:00~11:30", "Tues.12:30~14:00", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020096",
+			"applications_department":	["D007", "D018", "D020"],
+			"tags":	["English", "chess", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Wed.9:00~11:30", "Wed.12:30~14:00", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020097",
+			"applications_department":	["D004", "D019"],
+			"tags":	["chess", "football", "dance", "basketball"]
+		}, {
+			"free_time":	["Thur.21:00~22:30", "Thur.9:00~11:30", "Sat.9:00~11:30", "Sat.18:30~20:00", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020098",
+			"applications_department":	["D004"],
+			"tags":	["film", "English", "chess", "football"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.21:00~22:30", "Thur.12:30~14:00", "Sat.18:30~20:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020099",
+			"applications_department":	["D006", "D013", "D014", "D016", "D018"],
+			"tags":	["reading", "chess", "football", "programming"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.12:30~14:00", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020100",
+			"applications_department":	["D020"],
+			"tags":	["reading", "English", "dance", "basketball"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.18:30~20:00", "Thur.21:00~22:30", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020101",
+			"applications_department":	["D005"],
+			"tags":	["music", "study", "English", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020102",
+			"applications_department":	["D011", "D015"],
+			"tags":	["music", "chess", "football", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.12:30~14:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020103",
+			"applications_department":	["D003", "D005", "D016"],
+			"tags":	["music", "study", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Wed.21:00~22:30", "Wed.12:30~14:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020104",
+			"applications_department":	["D001", "D002", "D005", "D007", "D015"],
+			"tags":	["film", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Wed.21:00~22:30", "Wed.18:30~20:00", "Thur.9:00~11:30", "Thur.18:30~20:00"],
+			"student_no":	"0315020105",
+			"applications_department":	["D006"],
+			"tags":	["study", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020106",
+			"applications_department":	["D012", "D019"],
+			"tags":	["music", "English", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Tues.18:30~20:00", "Tues.12:30~14:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020107",
+			"applications_department":	["D016", "D017"],
+			"tags":	["reading", "study", "football", "programming"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020108",
+			"applications_department":	["D002", "D003", "D005", "D011", "D017"],
+			"tags":	["music", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Tues.9:00~11:30", "Tues.21:00~22:30", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020109",
+			"applications_department":	["D007"],
+			"tags":	["film", "music", "English"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Thur.9:00~11:30", "Thur.21:00~22:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020110",
+			"applications_department":	["D002", "D004", "D008", "D016", "D020"],
+			"tags":	["film", "reading", "study", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020111",
+			"applications_department":	["D002", "D018", "D020"],
+			"tags":	["film", "English", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.9:00~11:30", "Thur.12:30~14:00"],
+			"student_no":	"0315020112",
+			"applications_department":	["D001", "D002", "D011", "D012", "D014"],
+			"tags":	["music", "reading", "chess", "basketball"]
+		}, {
+			"free_time":	["Thur.9:00~11:30", "Thur.12:30~14:00", "Sat.9:00~11:30", "Sat.18:30~20:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020113",
+			"applications_department":	["D001", "D006", "D007", "D011", "D015"],
+			"tags":	["reading", "study", "chess", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020114",
+			"applications_department":	["D001"],
+			"tags":	["film", "study", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020115",
+			"applications_department":	["D015"],
+			"tags":	["film", "chess", "football", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.12:30~14:00", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020116",
+			"applications_department":	["D017"],
+			"tags":	["film", "study", "football", "programming"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.21:00~22:30", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020117",
+			"applications_department":	["D009", "D013"],
+			"tags":	["music", "reading", "English"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Wed.21:00~22:30", "Wed.12:30~14:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020118",
+			"applications_department":	["D002"],
+			"tags":	["chess", "programming", "basketball"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.9:00~11:30", "Fri.18:30~20:00", "Fri.9:00~11:30"],
+			"student_no":	"0315020119",
+			"applications_department":	["D018"],
+			"tags":	["music", "study", "programming"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020120",
+			"applications_department":	["D001", "D013", "D016", "D018", "D020"],
+			"tags":	["football", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.18:30~20:00", "Wed.12:30~14:00", "Sat.12:30~14:00", "Sat.18:30~20:00", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020121",
+			"applications_department":	["D020"],
+			"tags":	["film", "English", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Wed.12:30~14:00", "Wed.21:00~22:30", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020122",
+			"applications_department":	["D003", "D019", "D020"],
+			"tags":	["film", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.9:00~11:30", "Thur.18:30~20:00"],
+			"student_no":	"0315020123",
+			"applications_department":	["D005", "D013", "D017"],
+			"tags":	["music", "study", "chess", "basketball"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Sat.9:00~11:30", "Sat.12:30~14:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020124",
+			"applications_department":	["D004", "D008", "D011", "D013", "D019"],
+			"tags":	["film", "study", "dance"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Thur.21:00~22:30", "Thur.9:00~11:30", "Fri.12:30~14:00", "Fri.18:30~20:00"],
+			"student_no":	"0315020125",
+			"applications_department":	["D001", "D014"],
+			"tags":	["film", "music", "programming"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Tues.21:00~22:30", "Tues.18:30~20:00", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020126",
+			"applications_department":	["D004", "D006", "D007", "D010"],
+			"tags":	["music", "reading", "chess", "programming"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.21:00~22:30", "Thur.9:00~11:30", "Thur.18:30~20:00", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020127",
+			"applications_department":	["D005", "D011", "D013", "D017", "D020"],
+			"tags":	["film", "study", "English"]
+		}, {
+			"free_time":	["Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.9:00~11:30", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020128",
+			"applications_department":	["D001", "D019"],
+			"tags":	["chess", "football", "dance"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.9:00~11:30", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020129",
+			"applications_department":	["D016"],
+			"tags":	["film", "English", "football", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020130",
+			"applications_department":	["D003", "D007", "D009", "D018", "D019"],
+			"tags":	["music", "study", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Wed.9:00~11:30", "Wed.18:30~20:00", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020131",
+			"applications_department":	["D001", "D005", "D008"],
+			"tags":	["reading", "study", "English", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.9:00~11:30", "Tues.21:00~22:30", "Thur.21:00~22:30", "Thur.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020132",
+			"applications_department":	["D001", "D002", "D005", "D017", "D020"],
+			"tags":	["chess", "football", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Wed.21:00~22:30", "Wed.18:30~20:00", "Fri.21:00~22:30", "Fri.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020133",
+			"applications_department":	["D006", "D012", "D014"],
+			"tags":	["study", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Fri.18:30~20:00", "Fri.9:00~11:30"],
+			"student_no":	"0315020134",
+			"applications_department":	["D001", "D007", "D013", "D014", "D020"],
+			"tags":	["music", "reading", "study", "football"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020135",
+			"applications_department":	["D007", "D008", "D013"],
+			"tags":	["reading", "study", "basketball"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.12:30~14:00", "Thur.9:00~11:30", "Fri.12:30~14:00", "Fri.18:30~20:00"],
+			"student_no":	"0315020136",
+			"applications_department":	["D006"],
+			"tags":	["music", "study", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.12:30~14:00", "Sat.12:30~14:00", "Sat.18:30~20:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020137",
+			"applications_department":	["D002", "D016"],
+			"tags":	["music", "chess", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.9:00~11:30", "Tues.18:30~20:00", "Fri.21:00~22:30", "Fri.18:30~20:00", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020138",
+			"applications_department":	["D005", "D011"],
+			"tags":	["music", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.21:00~22:30", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020139",
+			"applications_department":	["D015"],
+			"tags":	["film", "study", "football"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.12:30~14:00", "Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020140",
+			"applications_department":	["D002", "D008", "D009", "D012", "D015"],
+			"tags":	["music", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Fri.21:00~22:30", "Fri.9:00~11:30", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020141",
+			"applications_department":	["D013"],
+			"tags":	["music", "English", "programming", "dance"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.18:30~20:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020142",
+			"applications_department":	["D002", "D010", "D018"],
+			"tags":	["film", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.9:00~11:30", "Tues.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020143",
+			"applications_department":	["D006"],
+			"tags":	["music", "reading", "study"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Thur.12:30~14:00", "Thur.21:00~22:30", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020144",
+			"applications_department":	["D006", "D011", "D012", "D016"],
+			"tags":	["music", "reading", "chess", "programming"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.12:30~14:00", "Fri.18:30~20:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020145",
+			"applications_department":	["D017"],
+			"tags":	["study", "football", "programming"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.9:00~11:30", "Sat.21:00~22:30", "Sat.12:30~14:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020146",
+			"applications_department":	["D005", "D007", "D012", "D015", "D018"],
+			"tags":	["study", "English", "basketball"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.9:00~11:30", "Thur.18:30~20:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020147",
+			"applications_department":	["D007", "D015", "D018"],
+			"tags":	["film", "music", "English", "programming"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.21:00~22:30", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020148",
+			"applications_department":	["D001", "D010", "D011"],
+			"tags":	["film", "football", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.12:30~14:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020149",
+			"applications_department":	["D001", "D006", "D020"],
+			"tags":	["music", "study", "English", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020150",
+			"applications_department":	["D014"],
+			"tags":	["music", "reading", "study"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.9:00~11:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020151",
+			"applications_department":	["D013"],
+			"tags":	["music", "study", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Wed.12:30~14:00", "Wed.9:00~11:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020152",
+			"applications_department":	["D016", "D018"],
+			"tags":	["music", "chess", "programming", "basketball"]
+		}, {
+			"free_time":	["Thur.12:30~14:00", "Thur.9:00~11:30", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020153",
+			"applications_department":	["D002", "D012", "D018", "D019", "D020"],
+			"tags":	["film", "reading", "study"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.18:30~20:00", "Thur.9:00~11:30", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020154",
+			"applications_department":	["D015"],
+			"tags":	["music", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Wed.18:30~20:00", "Wed.9:00~11:30", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020155",
+			"applications_department":	["D011", "D012", "D014", "D015"],
+			"tags":	["reading", "study", "chess", "basketball"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.18:30~20:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020156",
+			"applications_department":	["D003", "D020"],
+			"tags":	["study", "English", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.18:30~20:00", "Thur.21:00~22:30", "Thur.12:30~14:00"],
+			"student_no":	"0315020157",
+			"applications_department":	["D009"],
+			"tags":	["music", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sat.18:30~20:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020158",
+			"applications_department":	["D006", "D009", "D014", "D020"],
+			"tags":	["film", "reading", "study", "programming"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.12:30~14:00", "Thur.21:00~22:30", "Sat.21:00~22:30", "Sat.12:30~14:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020159",
+			"applications_department":	["D015", "D016", "D019"],
+			"tags":	["music", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Wed.21:00~22:30", "Wed.12:30~14:00", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020160",
+			"applications_department":	["D009", "D017", "D018"],
+			"tags":	["reading", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.9:00~11:30", "Fri.21:00~22:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020161",
+			"applications_department":	["D001", "D015", "D020"],
+			"tags":	["film", "study", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020162",
+			"applications_department":	["D004", "D020"],
+			"tags":	["reading", "chess", "football"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020163",
+			"applications_department":	["D009", "D016"],
+			"tags":	["music", "study", "English", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Wed.18:30~20:00", "Wed.9:00~11:30", "Fri.12:30~14:00", "Fri.18:30~20:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020164",
+			"applications_department":	["D007", "D009", "D017", "D019"],
+			"tags":	["film", "English", "football", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Thur.18:30~20:00", "Thur.9:00~11:30", "Fri.12:30~14:00", "Fri.18:30~20:00"],
+			"student_no":	"0315020165",
+			"applications_department":	["D005"],
+			"tags":	["music", "English", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.21:00~22:30", "Tues.12:30~14:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Fri.21:00~22:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020166",
+			"applications_department":	["D018"],
+			"tags":	["music", "chess", "programming"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.18:30~20:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020167",
+			"applications_department":	["D003", "D007", "D009", "D019"],
+			"tags":	["music", "programming", "dance"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020168",
+			"applications_department":	["D005", "D010", "D014", "D016", "D019"],
+			"tags":	["film", "music", "reading"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.12:30~14:00", "Sat.18:30~20:00", "Sat.9:00~11:30", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020169",
+			"applications_department":	["D002", "D011", "D017", "D019", "D020"],
+			"tags":	["film", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.12:30~14:00", "Wed.12:30~14:00", "Wed.18:30~20:00", "Thur.21:00~22:30", "Thur.18:30~20:00"],
+			"student_no":	"0315020170",
+			"applications_department":	["D002", "D003", "D007", "D008", "D012"],
+			"tags":	["reading", "English", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.21:00~22:30", "Wed.9:00~11:30", "Wed.18:30~20:00", "Fri.21:00~22:30", "Fri.9:00~11:30"],
+			"student_no":	"0315020171",
+			"applications_department":	["D001", "D008", "D014", "D016"],
+			"tags":	["film", "music", "reading", "dance"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Thur.21:00~22:30", "Thur.18:30~20:00", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020172",
+			"applications_department":	["D007", "D008", "D015"],
+			"tags":	["film", "music", "study", "programming"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.21:00~22:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020173",
+			"applications_department":	["D005", "D007", "D009", "D018"],
+			"tags":	["reading", "study", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.21:00~22:30", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020174",
+			"applications_department":	["D015", "D018"],
+			"tags":	["music", "study", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Wed.18:30~20:00", "Wed.12:30~14:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020175",
+			"applications_department":	["D003", "D004", "D014", "D015"],
+			"tags":	["film", "reading", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Fri.21:00~22:30", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020176",
+			"applications_department":	["D003", "D011"],
+			"tags":	["music", "study", "basketball"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.12:30~14:00", "Thur.12:30~14:00", "Thur.21:00~22:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020177",
+			"applications_department":	["D002", "D005", "D012"],
+			"tags":	["reading", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Wed.21:00~22:30", "Wed.9:00~11:30", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020178",
+			"applications_department":	["D006", "D007", "D008", "D010", "D018"],
+			"tags":	["film", "music", "reading", "study"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.12:30~14:00", "Wed.9:00~11:30", "Wed.12:30~14:00", "Thur.9:00~11:30", "Thur.18:30~20:00", "Sat.12:30~14:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020179",
+			"applications_department":	["D003", "D011"],
+			"tags":	["music", "study", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.18:30~20:00", "Thur.9:00~11:30", "Thur.18:30~20:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020180",
+			"applications_department":	["D003", "D017", "D019"],
+			"tags":	["English", "football", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020181",
+			"applications_department":	["D002", "D005", "D017", "D019"],
+			"tags":	["chess", "football", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Wed.9:00~11:30", "Wed.18:30~20:00", "Thur.21:00~22:30", "Thur.9:00~11:30", "Sat.12:30~14:00", "Sat.18:30~20:00"],
+			"student_no":	"0315020182",
+			"applications_department":	["D007", "D008"],
+			"tags":	["music", "reading", "English", "chess"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.9:00~11:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020183",
+			"applications_department":	["D014"],
+			"tags":	["music", "reading", "study", "football"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.18:30~20:00", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020184",
+			"applications_department":	["D002", "D014", "D015", "D016"],
+			"tags":	["reading", "English", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020185",
+			"applications_department":	["D005"],
+			"tags":	["music", "study", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Tues.18:30~20:00", "Tues.21:00~22:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020186",
+			"applications_department":	["D002", "D012"],
+			"tags":	["music", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020187",
+			"applications_department":	["D008", "D012"],
+			"tags":	["reading", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020188",
+			"applications_department":	["D003", "D006", "D014", "D017"],
+			"tags":	["film", "reading", "study", "football"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.9:00~11:30", "Thur.9:00~11:30", "Thur.18:30~20:00", "Fri.9:00~11:30", "Fri.21:00~22:30"],
+			"student_no":	"0315020189",
+			"applications_department":	["D004", "D006", "D010", "D011", "D013"],
+			"tags":	["reading", "English", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Thur.9:00~11:30", "Thur.18:30~20:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020190",
+			"applications_department":	["D005", "D013", "D014"],
+			"tags":	["English", "chess", "football"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.12:30~14:00", "Thur.18:30~20:00"],
+			"student_no":	"0315020191",
+			"applications_department":	["D008", "D015"],
+			"tags":	["study", "English", "chess", "football"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.18:30~20:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020192",
+			"applications_department":	["D002", "D006", "D014", "D017", "D020"],
+			"tags":	["reading", "football", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020193",
+			"applications_department":	["D005", "D008", "D013", "D019"],
+			"tags":	["study", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.21:00~22:30", "Fri.18:30~20:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020194",
+			"applications_department":	["D005"],
+			"tags":	["music", "reading", "English"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Fri.18:30~20:00", "Fri.9:00~11:30"],
+			"student_no":	"0315020195",
+			"applications_department":	["D016"],
+			"tags":	["English", "chess", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.12:30~14:00", "Sat.9:00~11:30", "Sat.12:30~14:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020196",
+			"applications_department":	["D007"],
+			"tags":	["film", "music", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020197",
+			"applications_department":	["D003", "D008"],
+			"tags":	["film", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Wed.21:00~22:30", "Wed.12:30~14:00", "Thur.9:00~11:30", "Thur.21:00~22:30", "Sat.12:30~14:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020198",
+			"applications_department":	["D003", "D007", "D010", "D011"],
+			"tags":	["film", "chess", "basketball"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.21:00~22:30", "Fri.21:00~22:30", "Fri.9:00~11:30", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020199",
+			"applications_department":	["D007", "D008", "D014", "D015", "D019"],
+			"tags":	["music", "reading", "chess", "football"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Fri.9:00~11:30", "Fri.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020200",
+			"applications_department":	["D004", "D006", "D012", "D017", "D020"],
+			"tags":	["reading", "English", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.9:00~11:30", "Wed.18:30~20:00", "Thur.21:00~22:30", "Thur.18:30~20:00"],
+			"student_no":	"0315020201",
+			"applications_department":	["D004", "D010", "D018"],
+			"tags":	["film", "English", "football", "dance"]
+		}, {
+			"free_time":	["Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020202",
+			"applications_department":	["D002", "D005", "D010", "D016"],
+			"tags":	["English", "chess", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.18:30~20:00", "Wed.9:00~11:30", "Wed.18:30~20:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Fri.12:30~14:00", "Fri.21:00~22:30"],
+			"student_no":	"0315020203",
+			"applications_department":	["D003", "D015", "D017"],
+			"tags":	["music", "reading", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Sat.18:30~20:00", "Sat.12:30~14:00"],
+			"student_no":	"0315020204",
+			"applications_department":	["D004", "D010", "D012", "D015"],
+			"tags":	["chess", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Wed.21:00~22:30", "Wed.18:30~20:00", "Thur.12:30~14:00", "Thur.18:30~20:00"],
+			"student_no":	"0315020205",
+			"applications_department":	["D004", "D005", "D014"],
+			"tags":	["film", "music", "chess"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Wed.21:00~22:30", "Wed.12:30~14:00", "Thur.9:00~11:30", "Thur.12:30~14:00"],
+			"student_no":	"0315020206",
+			"applications_department":	["D006", "D008", "D013", "D018"],
+			"tags":	["music", "English", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Thur.9:00~11:30", "Thur.21:00~22:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020207",
+			"applications_department":	["D008", "D018"],
+			"tags":	["film", "reading", "chess"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.21:00~22:30", "Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020208",
+			"applications_department":	["D003", "D005", "D007", "D014"],
+			"tags":	["reading", "football", "programming"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Wed.21:00~22:30", "Wed.18:30~20:00", "Thur.12:30~14:00", "Thur.21:00~22:30"],
+			"student_no":	"0315020209",
+			"applications_department":	["D009"],
+			"tags":	["music", "reading", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020210",
+			"applications_department":	["D003", "D004", "D009"],
+			"tags":	["film", "football", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.21:00~22:30", "Tues.9:00~11:30", "Fri.18:30~20:00", "Fri.12:30~14:00"],
+			"student_no":	"0315020211",
+			"applications_department":	["D001", "D006", "D010", "D013"],
+			"tags":	["English", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Tues.9:00~11:30", "Tues.12:30~14:00", "Fri.21:00~22:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020212",
+			"applications_department":	["D004"],
+			"tags":	["film", "English", "basketball"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.9:00~11:30", "Thur.21:00~22:30", "Thur.18:30~20:00", "Sat.12:30~14:00", "Sat.18:30~20:00"],
+			"student_no":	"0315020213",
+			"applications_department":	["D005", "D015"],
+			"tags":	["study", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Wed.18:30~20:00", "Wed.9:00~11:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sat.12:30~14:00", "Sat.18:30~20:00"],
+			"student_no":	"0315020214",
+			"applications_department":	["D016"],
+			"tags":	["English", "football", "programming"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.21:00~22:30", "Fri.12:30~14:00", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020215",
+			"applications_department":	["D003", "D006", "D019"],
+			"tags":	["reading", "study", "dance"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.18:30~20:00", "Sat.18:30~20:00", "Sat.21:00~22:30", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020216",
+			"applications_department":	["D007", "D012", "D016"],
+			"tags":	["chess", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020217",
+			"applications_department":	["D009", "D011"],
+			"tags":	["reading", "chess", "programming"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020218",
+			"applications_department":	["D007"],
+			"tags":	["film", "music", "English"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Thur.12:30~14:00", "Thur.18:30~20:00", "Fri.21:00~22:30", "Fri.12:30~14:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020219",
+			"applications_department":	["D006", "D010", "D013", "D015"],
+			"tags":	["English", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Wed.18:30~20:00", "Wed.12:30~14:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020220",
+			"applications_department":	["D001", "D003", "D004", "D016"],
+			"tags":	["study", "football", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Wed.12:30~14:00", "Wed.21:00~22:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020221",
+			"applications_department":	["D011", "D015", "D017"],
+			"tags":	["film", "reading", "programming", "basketball"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Fri.9:00~11:30", "Fri.18:30~20:00", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020222",
+			"applications_department":	["D014", "D019"],
+			"tags":	["reading", "study", "basketball"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.12:30~14:00", "Thur.21:00~22:30", "Thur.18:30~20:00", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020223",
+			"applications_department":	["D009", "D015", "D019"],
+			"tags":	["reading", "chess", "football", "programming"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.9:00~11:30", "Wed.12:30~14:00", "Wed.21:00~22:30", "Fri.18:30~20:00", "Fri.9:00~11:30"],
+			"student_no":	"0315020224",
+			"applications_department":	["D007", "D020"],
+			"tags":	["film", "programming", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.21:00~22:30", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sat.18:30~20:00", "Sat.12:30~14:00"],
+			"student_no":	"0315020225",
+			"applications_department":	["D002", "D003"],
+			"tags":	["study", "chess", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Tues.9:00~11:30", "Tues.12:30~14:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020226",
+			"applications_department":	["D010", "D016"],
+			"tags":	["film", "music", "dance"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.12:30~14:00", "Thur.21:00~22:30", "Thur.9:00~11:30", "Fri.21:00~22:30", "Fri.9:00~11:30"],
+			"student_no":	"0315020227",
+			"applications_department":	["D005", "D011", "D012", "D018"],
+			"tags":	["music", "study", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020228",
+			"applications_department":	["D020"],
+			"tags":	["film", "English", "dance"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020229",
+			"applications_department":	["D006", "D008", "D016", "D020"],
+			"tags":	["reading", "football", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.21:00~22:30", "Sat.9:00~11:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020230",
+			"applications_department":	["D002", "D005", "D009", "D011", "D013"],
+			"tags":	["reading", "study", "programming"]
+		}, {
+			"free_time":	["Wed.9:00~11:30", "Wed.12:30~14:00", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sat.9:00~11:30", "Sat.18:30~20:00", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020231",
+			"applications_department":	["D005"],
+			"tags":	["music", "English", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sat.12:30~14:00", "Sat.18:30~20:00", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020232",
+			"applications_department":	["D002", "D010"],
+			"tags":	["music", "English", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.18:30~20:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020233",
+			"applications_department":	["D001", "D012", "D015"],
+			"tags":	["chess", "football", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.12:30~14:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020234",
+			"applications_department":	["D018"],
+			"tags":	["film", "study", "programming", "basketball"]
+		}, {
+			"free_time":	["Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020235",
+			"applications_department":	["D013", "D017", "D020"],
+			"tags":	["film", "chess", "programming"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020236",
+			"applications_department":	["D005"],
+			"tags":	["music", "reading", "study", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.21:00~22:30", "Wed.9:00~11:30", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020237",
+			"applications_department":	["D003", "D010", "D018"],
+			"tags":	["music", "study", "football"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.18:30~20:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020238",
+			"applications_department":	["D014"],
+			"tags":	["music", "reading", "study"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.21:00~22:30", "Thur.18:30~20:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020239",
+			"applications_department":	["D017"],
+			"tags":	["film", "football", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Fri.21:00~22:30", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020240",
+			"applications_department":	["D004", "D008", "D009", "D019"],
+			"tags":	["film", "reading", "chess", "basketball"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.9:00~11:30", "Thur.18:30~20:00", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020241",
+			"applications_department":	["D006", "D007", "D019"],
+			"tags":	["film", "music", "football", "programming"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.21:00~22:30", "Sat.18:30~20:00", "Sat.12:30~14:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020242",
+			"applications_department":	["D004", "D009", "D011"],
+			"tags":	["music", "English", "programming", "basketball"]
+		}, {
+			"free_time":	["Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.21:00~22:30", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020243",
+			"applications_department":	["D008", "D013"],
+			"tags":	["film", "music", "study", "English"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Fri.12:30~14:00", "Fri.18:30~20:00", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020244",
+			"applications_department":	["D015"],
+			"tags":	["music", "study", "chess", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Thur.12:30~14:00", "Thur.21:00~22:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020245",
+			"applications_department":	["D003", "D017"],
+			"tags":	["music", "reading", "study"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Fri.21:00~22:30", "Fri.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020246",
+			"applications_department":	["D001", "D012"],
+			"tags":	["film", "music", "study"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Thur.18:30~20:00", "Thur.12:30~14:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020247",
+			"applications_department":	["D008"],
+			"tags":	["film", "reading", "study", "chess"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.9:00~11:30", "Tues.12:30~14:00", "Wed.12:30~14:00", "Wed.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30"],
+			"student_no":	"0315020248",
+			"applications_department":	["D008"],
+			"tags":	["reading", "English", "dance"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020249",
+			"applications_department":	["D003", "D011", "D012", "D013", "D018"],
+			"tags":	["music", "English", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Thur.21:00~22:30", "Thur.12:30~14:00", "Sat.18:30~20:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020250",
+			"applications_department":	["D003", "D011", "D016"],
+			"tags":	["English", "chess", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.9:00~11:30", "Thur.21:00~22:30", "Fri.21:00~22:30", "Fri.9:00~11:30"],
+			"student_no":	"0315020251",
+			"applications_department":	["D001", "D008", "D013", "D019", "D020"],
+			"tags":	["film", "English", "chess", "football"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.9:00~11:30", "Wed.21:00~22:30", "Fri.21:00~22:30", "Fri.18:30~20:00"],
+			"student_no":	"0315020252",
+			"applications_department":	["D004", "D009", "D014"],
+			"tags":	["film", "English", "football", "programming"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.18:30~20:00", "Thur.18:30~20:00", "Thur.21:00~22:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020253",
+			"applications_department":	["D010", "D012", "D017"],
+			"tags":	["music", "chess", "football"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.12:30~14:00", "Fri.12:30~14:00", "Fri.18:30~20:00", "Sat.21:00~22:30", "Sat.12:30~14:00"],
+			"student_no":	"0315020254",
+			"applications_department":	["D006"],
+			"tags":	["music", "study", "programming", "dance"]
+		}, {
+			"free_time":	["Thur.21:00~22:30", "Thur.18:30~20:00", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020255",
+			"applications_department":	["D001", "D002", "D004", "D007", "D008"],
+			"tags":	["study", "programming", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020256",
+			"applications_department":	["D002", "D008", "D011", "D016", "D020"],
+			"tags":	["film", "reading", "study", "football"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.18:30~20:00", "Tues.18:30~20:00", "Tues.9:00~11:30", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020257",
+			"applications_department":	["D007", "D008", "D012", "D014", "D015"],
+			"tags":	["English", "football", "dance"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.9:00~11:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020258",
+			"applications_department":	["D004", "D008", "D009", "D013"],
+			"tags":	["film", "reading", "chess"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.12:30~14:00", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020259",
+			"applications_department":	["D002", "D006", "D016"],
+			"tags":	["English", "programming", "basketball"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.21:00~22:30", "Thur.9:00~11:30", "Thur.12:30~14:00", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.18:30~20:00", "Sun.12:30~14:00"],
+			"student_no":	"0315020260",
+			"applications_department":	["D005"],
+			"tags":	["music", "reading", "English", "basketball"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.12:30~14:00", "Thur.9:00~11:30", "Sat.12:30~14:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020261",
+			"applications_department":	["D002", "D003", "D006", "D007", "D009"],
+			"tags":	["reading", "chess", "basketball"]
+		}, {
+			"free_time":	["Fri.21:00~22:30", "Fri.12:30~14:00", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.9:00~11:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020262",
+			"applications_department":	["D009"],
+			"tags":	["reading", "chess", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Tues.12:30~14:00", "Tues.18:30~20:00", "Fri.21:00~22:30", "Fri.18:30~20:00", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020263",
+			"applications_department":	["D001", "D007", "D015"],
+			"tags":	["music", "English", "programming"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Wed.18:30~20:00", "Wed.12:30~14:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020264",
+			"applications_department":	["D006", "D016", "D017", "D019", "D020"],
+			"tags":	["reading", "English", "programming"]
+		}, {
+			"free_time":	["Wed.12:30~14:00", "Wed.18:30~20:00", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.18:30~20:00", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020265",
+			"applications_department":	["D002", "D014"],
+			"tags":	["music", "reading", "English", "basketball"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.9:00~11:30", "Tues.21:00~22:30", "Tues.12:30~14:00", "Thur.18:30~20:00", "Thur.12:30~14:00"],
+			"student_no":	"0315020266",
+			"applications_department":	["D011"],
+			"tags":	["music", "programming", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.12:30~14:00", "Tues.18:30~20:00", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020267",
+			"applications_department":	["D008", "D010", "D014", "D016", "D017"],
+			"tags":	["reading", "chess", "football", "programming"]
+		}, {
+			"free_time":	["Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sat.12:30~14:00", "Sat.18:30~20:00"],
+			"student_no":	"0315020268",
+			"applications_department":	["D013", "D017"],
+			"tags":	["reading", "study", "dance"]
+		}, {
+			"free_time":	["Thur.21:00~22:30", "Thur.18:30~20:00", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020269",
+			"applications_department":	["D003", "D005", "D008", "D012", "D017"],
+			"tags":	["film", "reading", "programming"]
+		}, {
+			"free_time":	["Wed.21:00~22:30", "Wed.9:00~11:30", "Thur.9:00~11:30", "Thur.12:30~14:00", "Fri.21:00~22:30", "Fri.12:30~14:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020270",
+			"applications_department":	["D001"],
+			"tags":	["film", "study", "chess"]
+		}, {
+			"free_time":	["Tues.21:00~22:30", "Tues.18:30~20:00", "Thur.9:00~11:30", "Thur.21:00~22:30", "Sat.9:00~11:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020271",
+			"applications_department":	["D004", "D008", "D010", "D018", "D019"],
+			"tags":	["music", "English", "chess"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.12:30~14:00", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.21:00~22:30", "Sat.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020272",
+			"applications_department":	["D016"],
+			"tags":	["English", "football", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Tues.9:00~11:30", "Tues.12:30~14:00", "Thur.18:30~20:00", "Thur.9:00~11:30"],
+			"student_no":	"0315020273",
+			"applications_department":	["D001", "D002", "D004", "D015"],
+			"tags":	["study", "chess", "football", "dance"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.21:00~22:30", "Wed.12:30~14:00", "Wed.9:00~11:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sun.12:30~14:00", "Sun.18:30~20:00"],
+			"student_no":	"0315020274",
+			"applications_department":	["D005", "D006", "D014", "D020"],
+			"tags":	["reading", "study", "programming"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.18:30~20:00", "Wed.21:00~22:30", "Wed.18:30~20:00", "Thur.21:00~22:30", "Thur.12:30~14:00"],
+			"student_no":	"0315020275",
+			"applications_department":	["D019"],
+			"tags":	["English", "dance", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Wed.12:30~14:00", "Wed.18:30~20:00", "Sat.12:30~14:00", "Sat.21:00~22:30", "Sun.21:00~22:30", "Sun.9:00~11:30"],
+			"student_no":	"0315020276",
+			"applications_department":	["D003", "D008", "D009"],
+			"tags":	["music", "English", "chess", "programming"]
+		}, {
+			"free_time":	["Tues.18:30~20:00", "Tues.9:00~11:30", "Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.21:00~22:30", "Fri.18:30~20:00"],
+			"student_no":	"0315020277",
+			"applications_department":	["D015", "D019"],
+			"tags":	["music", "reading", "chess", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Tues.12:30~14:00", "Tues.9:00~11:30", "Thur.21:00~22:30", "Thur.12:30~14:00", "Fri.21:00~22:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020278",
+			"applications_department":	["D003", "D013", "D019"],
+			"tags":	["English", "programming", "basketball"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.21:00~22:30", "Wed.12:30~14:00", "Wed.21:00~22:30", "Fri.18:30~20:00", "Fri.9:00~11:30", "Sun.18:30~20:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020279",
+			"applications_department":	["D001", "D005", "D008", "D009", "D016"],
+			"tags":	["film", "music", "programming"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Wed.18:30~20:00", "Wed.9:00~11:30", "Sat.12:30~14:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020280",
+			"applications_department":	["D005", "D006", "D016"],
+			"tags":	["music", "football", "basketball"]
+		}, {
+			"free_time":	["Thur.21:00~22:30", "Thur.9:00~11:30", "Fri.12:30~14:00", "Fri.9:00~11:30", "Sat.9:00~11:30", "Sat.18:30~20:00", "Sun.9:00~11:30", "Sun.21:00~22:30"],
+			"student_no":	"0315020281",
+			"applications_department":	["D005", "D012", "D014"],
+			"tags":	["reading", "chess", "football", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.12:30~14:00", "Tues.18:30~20:00", "Tues.21:00~22:30", "Fri.21:00~22:30", "Fri.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020282",
+			"applications_department":	["D016", "D019"],
+			"tags":	["film", "English", "chess", "basketball"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.9:00~11:30", "Wed.21:00~22:30", "Wed.18:30~20:00", "Thur.18:30~20:00", "Thur.12:30~14:00", "Sat.9:00~11:30", "Sat.21:00~22:30"],
+			"student_no":	"0315020283",
+			"applications_department":	["D012", "D018"],
+			"tags":	["reading", "programming", "dance"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.9:00~11:30", "Tues.18:30~20:00", "Tues.21:00~22:30", "Fri.18:30~20:00", "Fri.21:00~22:30", "Sat.18:30~20:00", "Sat.9:00~11:30"],
+			"student_no":	"0315020284",
+			"applications_department":	["D009", "D014", "D018"],
+			"tags":	["music", "study", "football", "basketball"]
+		}, {
+			"free_time":	["Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.9:00~11:30", "Fri.12:30~14:00", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020285",
+			"applications_department":	["D001", "D006", "D007", "D010", "D015"],
+			"tags":	["chess", "football", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Thur.21:00~22:30", "Thur.9:00~11:30", "Fri.9:00~11:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020286",
+			"applications_department":	["D003", "D010", "D011", "D013", "D020"],
+			"tags":	["film", "study", "chess", "basketball"]
+		}, {
+			"free_time":	["Wed.18:30~20:00", "Wed.21:00~22:30", "Sat.18:30~20:00", "Sat.21:00~22:30", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020287",
+			"applications_department":	["D004", "D009", "D012", "D016", "D017"],
+			"tags":	["English", "football", "programming", "basketball"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.9:00~11:30", "Thur.12:30~14:00", "Thur.21:00~22:30", "Sat.9:00~11:30", "Sat.21:00~22:30", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020288",
+			"applications_department":	["D001", "D009", "D013", "D018", "D020"],
+			"tags":	["study", "English", "football", "basketball"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Thur.9:00~11:30", "Thur.12:30~14:00", "Sat.18:30~20:00", "Sat.21:00~22:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020289",
+			"applications_department":	["D005", "D012", "D020"],
+			"tags":	["music", "study", "dance"]
+		}, {
+			"free_time":	["Tues.9:00~11:30", "Tues.18:30~20:00", "Thur.12:30~14:00", "Thur.21:00~22:30", "Fri.18:30~20:00", "Fri.12:30~14:00", "Sun.21:00~22:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020290",
+			"applications_department":	["D017"],
+			"tags":	["film", "reading", "study"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Thur.12:30~14:00", "Thur.21:00~22:30", "Sat.12:30~14:00", "Sat.9:00~11:30", "Sun.18:30~20:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020291",
+			"applications_department":	["D001", "D007", "D013", "D017", "D019"],
+			"tags":	["reading", "chess", "football"]
+		}, {
+			"free_time":	["Thur.12:30~14:00", "Thur.9:00~11:30", "Sat.21:00~22:30", "Sat.9:00~11:30", "Sun.12:30~14:00", "Sun.21:00~22:30"],
+			"student_no":	"0315020292",
+			"applications_department":	["D004", "D008", "D011", "D017"],
+			"tags":	["study", "English", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Fri.12:30~14:00", "Fri.21:00~22:30", "Sat.21:00~22:30", "Sat.18:30~20:00", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020293",
+			"applications_department":	["D011", "D013", "D016"],
+			"tags":	["film", "English", "programming"]
+		}, {
+			"free_time":	["Mon.21:00~22:30", "Mon.12:30~14:00", "Wed.9:00~11:30", "Wed.18:30~20:00", "Sat.18:30~20:00", "Sat.12:30~14:00"],
+			"student_no":	"0315020294",
+			"applications_department":	["D008", "D010", "D015", "D019"],
+			"tags":	["music", "English", "dance", "basketball"]
+		}, {
+			"free_time":	["Tues.12:30~14:00", "Tues.21:00~22:30", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sat.18:30~20:00", "Sat.9:00~11:30", "Sun.9:00~11:30", "Sun.18:30~20:00"],
+			"student_no":	"0315020295",
+			"applications_department":	["D002", "D006"],
+			"tags":	["reading", "study", "football", "basketball"]
+		}, {
+			"free_time":	["Mon.18:30~20:00", "Mon.21:00~22:30", "Wed.12:30~14:00", "Wed.18:30~20:00", "Fri.21:00~22:30", "Fri.12:30~14:00"],
+			"student_no":	"0315020296",
+			"applications_department":	["D001", "D008", "D016", "D017"],
+			"tags":	["film", "study", "chess"]
+		}, {
+			"free_time":	["Thur.18:30~20:00", "Thur.21:00~22:30", "Fri.21:00~22:30", "Fri.18:30~20:00", "Sun.21:00~22:30", "Sun.12:30~14:00"],
+			"student_no":	"0315020297",
+			"applications_department":	["D003", "D017"],
+			"tags":	["film", "music", "programming", "basketball"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.12:30~14:00", "Wed.9:00~11:30", "Wed.18:30~20:00", "Sat.18:30~20:00", "Sat.21:00~22:30"],
+			"student_no":	"0315020298",
+			"applications_department":	["D008", "D017"],
+			"tags":	["film", "study", "English", "programming"]
+		}, {
+			"free_time":	["Mon.12:30~14:00", "Mon.18:30~20:00", "Thur.18:30~20:00", "Thur.9:00~11:30", "Sat.21:00~22:30", "Sat.18:30~20:00"],
+			"student_no":	"0315020299",
+			"applications_department":	["D003", "D010", "D011", "D016"],
+			"tags":	["music", "football", "programming"]
+		}, {
+			"free_time":	["Mon.9:00~11:30", "Mon.21:00~22:30", "Tues.12:30~14:00", "Tues.9:00~11:30", "Sun.12:30~14:00", "Sun.9:00~11:30"],
+			"student_no":	"0315020300",
+			"applications_department":	["D015"],
+			"tags":	["film", "study", "football"]
+		}],
+	"departments":	[{
+			"event_schedules":	["Mon.21:00~22:00", "Wed.21:00~22:00", "Thur.9:00~10:00", "Sat.21:00~22:00"],
+			"member_limit":	10,
+			"department_no":	"D001",
+			"tags":	["film", "study", "chess", "football", "programming"]
+		}, {
+			"event_schedules":	["Mon.12:30~13:30", "Tues.21:00~22:00", "Thur.18:30~19:30", "Fri.18:30~19:30"],
+			"member_limit":	12,
+			"department_no":	"D002",
+			"tags":	["music", "English", "chess", "football", "programming", "basketball"]
+		}, {
+			"event_schedules":	["Mon.12:30~13:30", "Wed.18:30~19:30", "Thur.21:00~22:00", "Fri.18:30~19:30"],
+			"member_limit":	12,
+			"department_no":	"D003",
+			"tags":	["music", "study", "programming", "basketball"]
+		}, {
+			"event_schedules":	["Mon.9:00~10:00", "Tues.18:30~19:30", "Thur.12:30~13:30", "Sat.18:30~19:30"],
+			"member_limit":	12,
+			"department_no":	"D004",
+			"tags":	["film", "English", "chess", "football", "basketball"]
+		}, {
+			"event_schedules":	["Mon.18:30~19:30", "Wed.21:00~22:00", "Thur.12:30~13:30", "Fri.18:30~19:30"],
+			"member_limit":	10,
+			"department_no":	"D005",
+			"tags":	["music", "reading", "study", "English", "dance", "basketball"]
+		}, {
+			"event_schedules":	["Wed.18:30~19:30", "Fri.12:30~13:30", "Sat.21:00~22:00"],
+			"member_limit":	15,
+			"department_no":	"D006",
+			"tags":	["music", "reading", "study", "football", "programming", "dance"]
+		}, {
+			"event_schedules":	["Mon.9:00~10:00", "Tues.21:00~22:00", "Sat.21:00~22:00"],
+			"member_limit":	12,
+			"department_no":	"D007",
+			"tags":	["film", "music", "English", "programming", "dance", "basketball"]
+		}, {
+			"event_schedules":	["Mon.21:00~22:00", "Thur.21:00~22:00", "Fri.18:30~19:30", "Sat.21:00~22:00"],
+			"member_limit":	13,
+			"department_no":	"D008",
+			"tags":	["film", "reading", "study", "English", "chess", "dance"]
+		}, {
+			"event_schedules":	["Mon.12:30~13:30", "Tues.18:30~19:30", "Sat.9:00~10:00"],
+			"member_limit":	15,
+			"department_no":	"D009",
+			"tags":	["music", "reading", "study", "chess", "programming", "dance"]
+		}, {
+			"event_schedules":	["Wed.9:00~10:00", "Fri.18:30~19:30", "Sat.9:00~10:00"],
+			"member_limit":	10,
+			"department_no":	"D010",
+			"tags":	["music", "chess", "football", "programming", "dance"]
+		}, {
+			"event_schedules":	["Mon.18:30~19:30", "Fri.9:00~10:00", "Sun.9:00~10:00"],
+			"member_limit":	12,
+			"department_no":	"D011",
+			"tags":	["music", "programming", "dance", "basketball"]
+		}, {
+			"event_schedules":	["Wed.18:30~19:30", "Thur.12:30~13:30", "Sat.18:30~19:30", "Sun.18:30~19:30"],
+			"member_limit":	13,
+			"department_no":	"D012",
+			"tags":	["music", "reading", "chess", "dance"]
+		}, {
+			"event_schedules":	["Mon.21:00~22:00", "Tues.9:00~10:00", "Wed.18:30~19:30", "Fri.18:30~19:30"],
+			"member_limit":	12,
+			"department_no":	"D013",
+			"tags":	["music", "study", "English", "chess", "programming", "dance"]
+		}, {
+			"event_schedules":	["Thur.18:30~19:30", "Fri.21:00~22:00", "Sat.9:00~10:00", "Sun.9:00~10:00"],
+			"member_limit":	13,
+			"department_no":	"D014",
+			"tags":	["music", "reading", "study", "football"]
+		}, {
+			"event_schedules":	["Tues.9:00~10:00", "Wed.9:00~10:00", "Sun.12:30~13:30"],
+			"member_limit":	15,
+			"department_no":	"D015",
+			"tags":	["film", "music", "study", "chess", "football", "dance"]
+		}, {
+			"event_schedules":	["Mon.12:30~13:30", "Tues.9:00~10:00", "Thur.12:30~13:30", "Sun.9:00~10:00"],
+			"member_limit":	12,
+			"department_no":	"D016",
+			"tags":	["film", "English", "chess", "football", "programming", "dance"]
+		}, {
+			"event_schedules":	["Thur.18:30~19:30", "Fri.12:30~13:30", "Sat.12:30~13:30"],
+			"member_limit":	14,
+			"department_no":	"D017",
+			"tags":	["film", "reading", "study", "football", "programming"]
+		}, {
+			"event_schedules":	["Tues.9:00~10:00", "Thur.9:00~10:00", "Fri.21:00~22:00", "Sun.21:00~22:00"],
+			"member_limit":	14,
+			"department_no":	"D018",
+			"tags":	["film", "music", "study", "chess", "programming", "basketball"]
+		}, {
+			"event_schedules":	["Tues.21:00~22:00", "Wed.18:30~19:30", "Thur.9:00~10:00", "Sun.9:00~10:00"],
+			"member_limit":	15,
+			"department_no":	"D019",
+			"tags":	["reading", "English", "dance", "basketball"]
+		}, {
+			"event_schedules":	["Wed.12:30~13:30", "Sat.12:30~13:30", "Sun.9:00~10:00"],
+			"member_limit":	11,
+			"department_no":	"D020",
+			"tags":	["film", "reading", "English", "dance", "basketball"]
+		}]
+}
